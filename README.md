@@ -23,6 +23,15 @@
 - *Plotly* - الرسوم البيانية التفاعلية
 - *HTML/CSS/JavaScript* - تحسينات الواجهة
 
+- 
+## Screenshots
+
+###  الصفحة الرئيسية
+![Home Screenshot](assets/screenshots/home-page.png)
+
+###  تجربة المحادثة
+![Chat Screenshot](assets/screenshots/chat-page.png)
+
 ##  إحصائيات المشروع
 
 -  *6+ عقارات متنوعة* (شقق، فيلات، محلات)
