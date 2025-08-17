@@ -1,15 +1,13 @@
 ---
-name: "🐛 Bug Report"
-about: "Report a bug to help us improve the chatbot"
+name: 🐛 Bug Report
+about: Report a bug to help us improve the chatbot
 title: "[BUG] Brief description of the bug"
 labels: bug
 assignees: ""
 ---
 
 ## 🐛 Bug Description
-> A clear and concise description of what the bug is.
-
----
+A clear and concise description of what the bug is.
 
 ## 📋 Steps to Reproduce
 1. Go to '...'
@@ -17,23 +15,15 @@ assignees: ""
 3. Scroll down to '...'
 4. See error
 
----
-
 ## ✅ Expected Behavior
-> What you expected to happen.
-
----
+What you expected to happen.
 
 ## ❌ Actual Behavior
-> What actually happened instead.
-
----
+What actually happened instead.
 
 ## 📸 Screenshots / Logs
 - Add screenshots if relevant  
 - Paste console errors or log output if available  
-
----
 
 ## 🖥 Environment
 - **OS:** (e.g. Windows 11, macOS 14, Ubuntu 22.04)  
@@ -42,15 +32,11 @@ assignees: ""
 - **Streamlit Version:** (e.g. 1.28.0)  
 - **Device:** (e.g. iPhone 12, Desktop 1080p)  
 
----
-
 ## 🎯 Priority
 - [ ] 🚨 Critical (App crashes/unusable)  
 - [ ] 🔴 High (Major feature broken)  
 - [ ] 🟡 Medium (Minor feature issue)  
 - [ ] 🟢 Low (Cosmetic/minor issue)  
-
----
 
 ## ✅ Checklist
 - [ ] I searched existing issues (not a duplicate)  
